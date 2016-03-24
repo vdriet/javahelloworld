@@ -4,6 +4,6 @@ public class HelloWorld {
 		if(args.length > 0) {
 			name = args[0];
 		}
-		System.out.printf("Hello %s\n", name);
+		System.out.printf("Helllo %s\n", name);
 	}
 }
